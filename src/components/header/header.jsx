@@ -1,8 +1,8 @@
 import React from 'react';
 import './Header.css';
-import Personal from '../../../public/phase-1.svg';
-import Education from '../../../public/phase-2.svg';
-import Work from '../../../public/phase-3.svg';
+import Personal from '../../images/phase-1.svg';
+import Education from '../../images/phase-2.svg';
+import Work from '../../images/phase-3.svg';
 
 export class Header extends React.Component {
   render() {
